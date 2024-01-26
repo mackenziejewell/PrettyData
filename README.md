@@ -1,2 +1,2 @@
-# PrettyData
-Notebooks for making nice data visualizations
+# PrettyPolarPlots
+Notebooks for making nice Arctic data visualizations
